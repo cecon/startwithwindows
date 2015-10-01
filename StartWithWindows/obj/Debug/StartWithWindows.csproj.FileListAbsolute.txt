@@ -1,0 +1,5 @@
+C:\Users\Eduardo\Documents\Projetos\StartWithWindows\StartWithWindows\bin\Debug\StartWithWindows.dll
+C:\Users\Eduardo\Documents\Projetos\StartWithWindows\StartWithWindows\bin\Debug\StartWithWindows.pdb
+C:\Users\Eduardo\Documents\Projetos\StartWithWindows\StartWithWindows\obj\Debug\StartWithWindows.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Projetos\StartWithWindows\StartWithWindows\obj\Debug\StartWithWindows.dll
+C:\Users\Eduardo\Documents\Projetos\StartWithWindows\StartWithWindows\obj\Debug\StartWithWindows.pdb
