@@ -17,7 +17,7 @@
 
         public bool ToggleRegistry()
         {
-            if (Active)
+            if (!Active)
                 RegistryController.SetRegistry(AppName);            
             else                        
                 RegistryController.RemoveRegistry(AppName);
